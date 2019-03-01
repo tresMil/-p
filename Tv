@@ -1,0 +1,1872 @@
+#EXTM3U
+#EXTINF:-1,MAX_UP_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/2.ts
+#EXTINF:-1,ISAT
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/3.ts
+#EXTINF:-1,HBO_HD_SUB
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/4.ts
+#EXTINF:-1,HBO_2_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/5.ts
+#EXTINF:-1,GOURMET_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/6.ts
+#EXTINF:-1,FRANCE24
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/7.ts
+#EXTINF:-1,FOX_SPORTS3_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/8.ts
+#EXTINF:-1,FOX_CINEMA_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/9.ts
+#EXTINF:-1,FOXSP1_MX_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/10.ts
+#EXTINF:-1,FOXFAMILY_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/11.ts
+#EXTINF:-1,ESPN_3_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/12.ts
+#EXTINF:-1,EL_SEMBRADOR
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/13.ts
+#EXTINF:-1,DISCOVERY_SCIENCE
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/14.ts
+#EXTINF:-1,DISCOVERY_CHANNEL_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/15.ts
+#EXTINF:-1,DEPELICULA
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/16.ts
+#EXTINF:-1,COMEDY_CENTRAL_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/17.ts
+#EXTINF:-1,CNN_INTERNACIONAL
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/18.ts
+#EXTINF:-1,CLARO_SPORTS_LATAM_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/19.ts
+#EXTINF:-1,CINELATINO
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/20.ts
+#EXTINF:-1,CARACOL_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/21.ts
+#EXTINF:-1,CANAL_CLARO_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/22.ts
+#EXTINF:-1,CABLENOTICIAS_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/23.ts
+#EXTINF:-1,BBC_WORLD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/24.ts
+#EXTINF:-1,BABYTV
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/25.ts
+#EXTINF:-1,AZCORAZON_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/26.ts
+#EXTINF:-1,AE_MUNDO_HD
+http://51.38.221.54:8000/live/android-latino/g1U03Y4vZJ/27.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="", A&E
+http://micine.club:25461/live/knicolemtz/knicolemtz/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Caracol
+http://micine.club:25461/live/knicolemtz/knicolemtz/1849.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", RCN
+http://micine.club:25461/live/knicolemtz/knicolemtz/1848.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", A3Series
+http://micine.club:25461/live/knicolemtz/knicolemtz/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Antena 3
+http://micine.club:25461/live/knicolemtz/knicolemtz/2079.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", E!
+http://micine.club:25461/live/knicolemtz/knicolemtz/2035.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Telemundo
+http://micine.club:25461/live/knicolemtz/knicolemtz/1837.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TruTV
+http://micine.club:25461/live/knicolemtz/knicolemtz/1939.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Food Network
+http://micine.club:25461/live/knicolemtz/knicolemtz/2024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Unicable
+http://micine.club:25461/live/knicolemtz/knicolemtz/1933.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Galavision
+http://micine.club:25461/live/knicolemtz/knicolemtz/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", MTV
+http://micine.club:25461/live/knicolemtz/knicolemtz/1977.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Telehit
+http://micine.club:25461/live/knicolemtz/knicolemtz/1948.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Bandamax
+http://micine.club:25461/live/knicolemtz/knicolemtz/2067.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Teleritmo
+http://micine.club:25461/live/knicolemtz/knicolemtz/1947.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Tiin
+http://micine.club:25461/live/knicolemtz/knicolemtz/1944.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Las Estrellas
+http://micine.club:25461/live/knicolemtz/knicolemtz/1984.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimedios
+http://micine.club:25461/live/knicolemtz/knicolemtz/1974.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Morbido
+http://micine.club:25461/live/knicolemtz/knicolemtz/1978.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Televisa Monterrey
+http://micine.club:25461/live/knicolemtz/knicolemtz/1946.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Azteca 7
+http://micine.club:25461/live/knicolemtz/knicolemtz/2072.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Azteca Uno
+http://micine.club:25461/live/knicolemtz/knicolemtz/2070.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Canal 5
+http://micine.club:25461/live/knicolemtz/knicolemtz/2064.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Imagen TV
+http://micine.club:25461/live/knicolemtz/knicolemtz/1988.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Univision
+http://micine.club:25461/live/knicolemtz/knicolemtz/1838.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TlNovelas
+http://micine.club:25461/live/knicolemtz/knicolemtz/1943.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AMC
+http://micine.club:25461/live/knicolemtz/knicolemtz/2081.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AXN
+http://micine.club:25461/live/knicolemtz/knicolemtz/2078.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cinelatino
+http://micine.club:25461/live/gorditax2/gordita1/392.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cinecanal
+http://micine.club:25461/live/knicolemtz/knicolemtz/2061.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cinemax
+http://micine.club:25461/live/knicolemtz/knicolemtz/2060.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Comedy Central
+http://micine.club:25461/live/knicolemtz/knicolemtz/2056.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", De Pelicula
+http://micine.club:25461/live/knicolemtz/knicolemtz/2054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", DHE
+http://micine.club:25461/live/gorditax2/gordita1/402.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Distrito Comedia
+http://micine.club:25461/live/knicolemtz/knicolemtz/2039.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FOX
+http://micine.club:25461/live/knicolemtz/knicolemtz/2022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Life
+http://micine.club:25461/live/knicolemtz/knicolemtz/2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Action
+http://micine.club:25461/live/knicolemtz/knicolemtz/2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Cinema
+http://micine.club:25461/live/knicolemtz/knicolemtz/2019.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Classics
+http://micine.club:25461/live/knicolemtz/knicolemtz/2018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Comedy
+http://micine.club:25461/live/knicolemtz/knicolemtz/2018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Family
+http://micine.club:25461/live/gorditax2/gordita1/322.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Movies
+http://micine.club:25461/live/knicolemtz/knicolemtz/2017.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Series
+http://micine.club:25461/live/knicolemtz/knicolemtz/2016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FX
+http://micine.club:25461/live/knicolemtz/knicolemtz/2008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FXM
+http://micine.club:25461/live/knicolemtz/knicolemtz/2007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Golden
+http://micine.club:25461/live/knicolemtz/knicolemtz/2003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Golden Edge
+http://micine.club:25461/live/knicolemtz/knicolemtz/2002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO
+http://micine.club:25461/live/knicolemtz/knicolemtz/1997.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO 2
+http://micine.club:25461/live/knicolemtz/knicolemtz/1996.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO Family
+http://micine.club:25461/live/knicolemtz/knicolemtz/1995.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", HBO Plus
+http://micine.club:25461/live/knicolemtz/knicolemtz/1994.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", I Sat
+http://micine.club:25461/live/knicolemtz/knicolemtz/1989.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Lifetime
+http://micine.club:25461/live/knicolemtz/knicolemtz/1982.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", MAX
+http://micine.club:25461/live/gorditax2/gordita1/460.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Max Prime
+http://micine.club:25461/live/knicolemtz/knicolemtz/2089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Max Up
+http://micine.club:25461/live/gorditax2/gordita1/356.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multi Premier
+http://micine.club:25461/live/gorditax2/gordita1/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Paramount Channel
+http://micine.club:25461/live/knicolemtz/knicolemtz/1964.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Pasiones TV
+http://micine.club:25461/live/gorditax2/gordita1/246.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Sony
+http://micine.club:25461/live/knicolemtz/knicolemtz/1957.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Space
+http://micine.club:25461/live/knicolemtz/knicolemtz/1956.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Studio Universal
+http://micine.club:25461/live/knicolemtz/knicolemtz/1955.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Syfy
+http://micine.club:25461/live/knicolemtz/knicolemtz/1952.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TBS
+http://micine.club:25461/live/knicolemtz/knicolemtz/1951.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TCM
+http://micine.club:25461/live/knicolemtz/knicolemtz/1950.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT
+http://micine.club:25461/live/knicolemtz/knicolemtz/1942.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT Series
+http://micine.club:25461/live/knicolemtz/knicolemtz/1941.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Universal Channel
+http://micine.club:25461/live/knicolemtz/knicolemtz/1932.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Warner Channel
+http://micine.club:25461/live/knicolemtz/knicolemtz/1929.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Baby First
+http://micine.club:25461/live/knicolemtz/knicolemtz/2068.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Boomerang
+http://micine.club:25461/live/knicolemtz/knicolemtz/2065.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cartoon Network
+http://micine.club:25461/live/knicolemtz/knicolemtz/2062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Kids
+http://micine.club:25461/live/knicolemtz/knicolemtz/2050.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Kids HD
+http://micine.club:25461/live/knicolemtz/knicolemtz/2049.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Disney Channel
+http://micine.club:25461/live/knicolemtz/knicolemtz/2042.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Disney Jr
+http://micine.club:25461/live/knicolemtz/knicolemtz/2041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Disney XD
+http://micine.club:25461/live/knicolemtz/knicolemtz/2040.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nat Geo Kids
+http://micine.club:25461/live/knicolemtz/knicolemtz/1972.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick 2
+http://micine.club:25461/live/knicolemtz/knicolemtz/1969.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick Jr
+http://micine.club:25461/live/knicolemtz/knicolemtz/1968.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick
+http://micine.club:25461/live/knicolemtz/knicolemtz/1970.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nicktoons
+http://micine.club:25461/live/knicolemtz/knicolemtz/1967.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Tooncast
+http://micine.club:25461/live/knicolemtz/knicolemtz/1940.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Afizzionados
+http://micine.club:25461/live/knicolemtz/knicolemtz/2069.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/1910.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Bein Sports Ñ
+http://micine.club:25461/live/knicolemtz/knicolemtz/1841.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", CDF Estadio
+http://micine.club:25461/live/knicolemtz/knicolemtz/1851.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", CDF Premium
+http://micine.club:25461/live/knicolemtz/knicolemtz/1854.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Claro Sports
+http://micine.club:25461/live/gorditax2/gordita1/395.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Directv Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/1844.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Directv Sports 2
+http://micine.club:25461/live/knicolemtz/knicolemtz/1843.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AyM Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/2077.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Directv Sports Plus
+http://micine.club:25461/live/knicolemtz/knicolemtz/1842.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN
+http://micine.club:25461/live/knicolemtz/knicolemtz/2034.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN 2
+http://micine.club:25461/live/knicolemtz/knicolemtz/2033.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN 3
+http://micine.club:25461/live/knicolemtz/knicolemtz/2032.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN Plus
+http://micine.club:25461/live/knicolemtz/knicolemtz/2031.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/2015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports 2
+http://micine.club:25461/live/knicolemtz/knicolemtz/2014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports 3
+http://micine.club:25461/live/knicolemtz/knicolemtz/2013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports Premium
+http://micine.club:25461/live/knicolemtz/knicolemtz/2086.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Movistar Formula 1
+http://micine.club:25461/live/knicolemtz/knicolemtz/1825.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Movistar Futbol
+http://micine.club:25461/live/knicolemtz/knicolemtz/1823.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NBA TV
+http://micine.club:25461/live/knicolemtz/knicolemtz/1908.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NFL Network
+http://micine.club:25461/live/knicolemtz/knicolemtz/1909.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TVC Deportes
+http://micine.club:25461/live/knicolemtz/knicolemtz/1935.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TyC Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/1911.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", UFC
+http://micine.club:25461/live/knicolemtz/knicolemtz/1839.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Univision TDN
+http://micine.club:25461/live/knicolemtz/knicolemtz/1845.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Univision Deportes
+http://micine.club:25461/live/knicolemtz/knicolemtz/1846.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Win Sports
+http://micine.club:25461/live/knicolemtz/knicolemtz/1847.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", WWE Network
+http://micine.club:25461/live/knicolemtz/knicolemtz/1840.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Channel
+http://micine.club:25461/live/knicolemtz/knicolemtz/2053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Animal Planet
+http://micine.club:25461/live/knicolemtz/knicolemtz/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Civilization
+http://micine.club:25461/live/knicolemtz/knicolemtz/2052.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery H&H
+http://micine.club:25461/live/knicolemtz/knicolemtz/2051.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Science
+http://micine.club:25461/live/knicolemtz/knicolemtz/2048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Theater
+http://micine.club:25461/live/knicolemtz/knicolemtz/2047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery TLC
+http://micine.club:25461/live/knicolemtz/knicolemtz/2046.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery TLC HD
+http://micine.club:25461/live/knicolemtz/knicolemtz/2045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Turbo
+http://micine.club:25461/live/knicolemtz/knicolemtz/2044.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery World
+http://micine.club:25461/live/knicolemtz/knicolemtz/2043.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", El Gourmet
+http://micine.club:25461/live/knicolemtz/knicolemtz/2036.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", History
+http://micine.club:25461/live/knicolemtz/knicolemtz/1999.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", H2
+http://micine.club:25461/live/knicolemtz/knicolemtz/1998.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Investigation
+http://micine.club:25461/live/knicolemtz/knicolemtz/1986.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nat Geo
+http://micine.club:25461/live/knicolemtz/knicolemtz/1973.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nat Geo Wild
+http://micine.club:25461/live/knicolemtz/knicolemtz/1971.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fightime
+http://micine.club:25461/live/knicolemtz/knicolemtz/2069.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", ACS Network
+http://inliveserver.com:1935/8468/8468/chunklist_w1443004328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", AmericaTeve USA
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="NACIONALES", Univision 
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/58527.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="NACIONALES", TELEMUNDO
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/61835.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/rcn.png" group-title="NACIONALES", RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/insight.png" group-title="NACIONALES", Insight TV
+http://6946.000webhostapp.com/qn1h2UX01s/v1.php/insight_tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/estrellatv.png" group-title="NACIONALES", EstrellaTV
+http://6946.000webhostapp.com/qn1h2UX01s/v1.php/estrellatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/inti.png" group-title="NACIONALES", Inti
+http://6946.000webhostapp.com/qn1h2UX01s/v3.php/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/romance.png" group-title="NACIONALES", Romance
+http://6946.000webhostapp.com/qn1h2UX01s/v1.php/Romanc1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Chilevisi%C3%B3n2015oficial.png/revision/latest/scale-to-width-down/200?cb=20181117223224" group-title="NACIONALES", Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="NACIONALES", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logo-tv-azteca-png.jpg/200px-Logo-tv-azteca-png.jpg" group-title="NACIONALES", Azteca 1 
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/180px-Logo_a%2B_%28canal%29.svg.png" group-title="NACIONALES", Azteca Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/mexiquense.png" group-title="NACIONALES", Mexiquense
+http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="NACIONALES", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="NACIONALES", CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="NACIONALES", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES", Teledoce
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", AmericaTeve
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Canal 13 Puerto Rico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", TVN Panama
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", TVMax
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+#EXTINF:-1 tvg-logo="http://www.conaculta.gob.mx/recursos/sala_prensa/comunicados/thumbs/201112/canal_22.jpg" group-title="NACIONALES", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", QuieroTV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1 tvg-logo="https://demedios.info/wp-content/uploads/2018/06/logo-net-tv.jpg" group-title="NACIONALES", Net TV 
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD1LgcZ.png" group-title="NACIONALES",Efekto TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300" group-title="NACIONALES", Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="NACIONALES", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="NACIONALES", TC 
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_(once_TV).png/186px-Antiguo_logo_de_Canal_Once_(once_TV).png" group-title="NACIONALES", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2015chvlogo.png/605px-2015chvlogo.png" group-title="NACIONALES", Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="NACIONALES", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NACIONALES", VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="NACIONALES", FM Hot
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/granNACIONALES.png" group-title="NACIONALES", Gran NACIONALES 
+http://6946.000webhostapp.com/qn1h2UX01s/v2.php/granNACIONALES/index.m3u8
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="NACIONALES", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="NACIONALES", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/sorpresa.png" group-title="Infantil", Sorpresa !
+http://6946.000webhostapp.com/qn1h2UX01s/v2.php/sorpresa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/moolt.png" group-title="Infantil", Moolt
+http://6946.000webhostapp.com/qn1h2UX01s/v1.php/moolttv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil", Pequeradio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Infantil", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/a4/4a/19/a44a19b66c1ce047a508c3cf76fce8e0.jpg" group-title="Infantil", Canal Panda
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/57953.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/latinosup.png" group-title="Musica", Latinos UP
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/radiola.png" group-title="Musica", RadiolaTV
+http://hls.giize.com/cl/Gk4yRjlao8.m3u8?ch=radiola
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="Musica", TELERITMO 
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.1clickcd.com/files/mdj-image-1502232590-550738_200.jpg" group-title="Musica", Top Latino
+http://173.236.60.186/livetv/latinoSD.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="Musica", Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.invubu.com/radio/radio_images/logos/radiou/radiou-logo500.png" group-title="Musica", Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/radioutv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Musica", Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Musica", SON POPULAR 
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png" group-title="Musica", RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://maestros-informados.com.mx/wp-content/uploads/2016/10/aprendeTV.jpg" group-title="CULTURA", Aprende Tv
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/dogtv.png" group-title="Cultura", DogTV
+http://6946.000webhostapp.com/qn1h2UX01s/dogtv.php/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/myplanet.png" group-title="Cultura", Mi Planeta
+http://6946.000webhostapp.com/qn1h2UX01s/v1.php/miplaneta/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Cultura", DW NACIONALES
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="Cultura", Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+***
++
++
++
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO", (ONLINE) WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", (ONLINE) FM Hot | HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Comedy
+http://192.99.19.55:25461/live/saWgaby14160/8pNe9Yy/142.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX Classics
+http://192.99.19.55:25461/live/saWgaby14160/8pNe9Yy/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Discovery TLC
+http://192.99.19.55:25461/live/saWgaby14160/8pNe9Yy/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Sports 2 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/158.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX Family
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Discovery h&h
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DirecTV Sports 2
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/6.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ESPN 2 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ESPN 3 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/8.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Bein La Liga
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/159.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Caracol
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/151.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Cine latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/81.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Discovery science
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/123.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Disney XD
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/131.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) El gourmet
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/82.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HBO Signature
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/80.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La liga TV HD
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/68.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MLB Network
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/90.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Azteca mundo
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/58.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Baby TV
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/83.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Bein Sports
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/55.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Box nation
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/57.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CNN español
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/84.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DirecTV Sports +
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/152.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Discovery Theather
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movistar F1
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/7.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movie max
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/38.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Max Up
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/72.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Lifetime
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/93.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Latina
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/74.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Hola TV
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/56.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Golden premier
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/138.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Gol TV
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/148.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Gol peru
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Galavision
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/92.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FXM
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/114.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FX
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/10.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Sports 3
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/157.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Sports 2 MX
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/155.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX Series
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/49.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX News
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/59.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Universo NBC
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/60.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TyC Sports
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/43.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HBO 2
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HBO Plus
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/34.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ESPN 1 latino
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ESPN Deportes
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX Action
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/144.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FOX Cinema
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/143.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Sports 1 Latino
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/37.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Fox Sports Premium
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MAX Prime
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/113.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Multipremier
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/127.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Unimas
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/136.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Tooncast
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TN Argentina
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/27.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Telehit
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/85.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TCM
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/86.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Ritmoson latino
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/91.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Nick Jr
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/122.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Nick
+http://192.99.19.55:25461/live/sKoalade12/6saKJHaFq1/14.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) BANDAMAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO", (ONLINE) TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO", (ONLINE) WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EXTREMA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) AD SPPORT
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", (ONLINE) Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", (ONLINE) Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", (ONLINE) Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", (ONLINE) Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", (ONLINE) Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dd6ZzqF.jpg" group-title="PERU", (DOUBTFUL) Latina TV | SD
+http://photocall.tv/latina.php/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL SD", (ONLINE) *** CANAL SD ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", (ONLINE) Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Movies: La gran apuesta - The Big short 2015
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Lancelot TV PELI
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", (ONLINE) Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL SD INFANTIL", (ONLINE) *** CANAL SD INFANTIL ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LOCOMOTION TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ANIMAX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) El Chavo VOD
+https://goo.gl/8W1wKL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Futurama VOD
+https://goo.gl/DZSUJc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://k33.kn3.net/taringa/4/5/D/A/A/A/Zrogs/233.jpg" group-title="Without category", (ONLINE) LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="Infantiles", (ONLINE) Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO", (ONLINE) Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="24/7", (DOUBTFUL) El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="INFANTIL", (ONLINE) Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="INFANTIL", (ONLINE) Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1oapo3E.png" group-title="INFANTIL", (DOUBTFUL) El Chavo
+http://tecnotv.xyz/chavo.php
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7", (DOUBTFUL) Los Simpson Random
+http://tecnotv.xyz/simpson.php
+
+#EXTINF:-1 tvg-logo="https://imgur.com/cdXmXtl.jpg" group-title="24/7", (DOUBTFUL) Futurama
+http://tecnotv.xyz/futurama.php
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANALES PISES", (ONLINE) *** CANALES PAISES***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", (ONLINE) Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", (ONLINE) Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", (ONLINE) Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", (ONLINE) Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", (ONLINE) Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", (ONLINE) Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", (ONLINE) Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", (ONLINE) Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", (ONLINE) Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", (ONLINE) Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", (ONLINE) RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", (ONLINE) RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", (ONLINE) RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yb8aUmW.jpg" group-title="MEXICO", (ONLINE) Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO", (ONLINE) TVP Mazatlan | FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", (ONLINE) 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Epj6mqE.png" group-title="MEXICO", (ONLINE) Ocho TV (Guadalajara) | FHD
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="ESPAÑA", (ONLINE) FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmMGr10.png" group-title="ESPAÑA", (ONLINE) Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqIlk01.png" group-title="ESPAÑA", (ONLINE) Antena 3 | HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zQi7G3.png" group-title="ESPAÑA", (ONLINE) ATRESeries | HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoVxGji.png" group-title="ESPAÑA", (ONLINE) La Sexta | HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gjp11Z3.png" group-title="ESPAÑA", (ONLINE) Mega España | HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4B8ONt.png" group-title="ESPAÑA", (ONLINE) Neox | HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="ESPAÑA", (ONLINE) La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="ESPAÑA", (ONLINE) Canal 13 España | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="ESPAÑA", (ONLINE) Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJR4kYE.png" group-title="ESPAÑA", (ONLINE) Nova | HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tio3Wpw.png" group-title="ESPAÑA", (ONLINE) 324 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="ESPAÑA", (ONLINE) Extremadura | SD
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", (ONLINE) Lancelot TV | SD
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="ESPAÑA", (ONLINE) ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKXbIr9.png" group-title="ESPAÑA", (ONLINE) Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJTCoH8.png" group-title="ESPAÑA", (ONLINE) Levante TV | SD
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R0XrZJ1.png" group-title="ESPAÑA", (ONLINE) Navarra TV | SD
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFJqzx2.png" group-title="ESPAÑA", (ONLINE) TV3 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", (ONLINE) TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", (ONLINE) TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="ESPAÑA", (ONLINE) Calle 13 | SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sG60MI9.jpg" group-title="ESPAÑA", (ONLINE) 324 Cataluña | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXHdLeZ.png" group-title="ESPAÑA", (ONLINE) Canal 4 Tenerife | SD
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omjtgw0.png" group-title="ESPAÑA", (ONLINE) Canaria Sat Television | SD
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPMZ7mM.png" group-title="ESPAÑA", (ONLINE) Cancionero TV | SD
+http://89.140.99.41/hls/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="ESPAÑA", (ONLINE) TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8HIM2v.png" group-title="ESPAÑA", (DOUBTFUL) Onda Cadiz | SD
+http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="ESPAÑA", (ONLINE) 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", (ONLINE) CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", (ONLINE) CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HGma9m.png" group-title="CHILE", (ONLINE) CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", (ONLINE) Canal 9 | HD | Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", (ONLINE) Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", (ONLINE) Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", (ONLINE) TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", (ONLINE) FM Hot | HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", (ONLINE) TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", (ONLINE) Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", (ONLINE) Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="ARGENTINA", (ONLINE) Telpin Canal 2 | SD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="ARGENTINA", (ONLINE) Cool 103.7 (Radio con Video) | HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", (ONLINE) Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", (ONLINE) Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="ARGENTINA", (ONLINE) Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", (ONLINE) Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", (ONLINE) Canal 5 Telesol | HD
+http://149.56.98.124:9090/hls/telesol.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", (ONLINE) Canal 9 Comodoro Rivadavia | SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="ARGENTINA", (ONLINE) El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", (ONLINE) Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", (ONLINE) Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", (ONLINE) Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", (ONLINE) TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", (ONLINE) TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", (DOUBTFUL) Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMF07Lq.png" group-title="ECUADOR", (ONLINE) TC | SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMF07Lq.png" group-title="ECUADOR", (ONLINE) TC (Alt) | HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWqq06v.png" group-title="REPUBLICA DOMINICANA", (ONLINE) Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", (ONLINE) Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="COSTA RICA", (ONLINE) TV Sur | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA", (ONLINE) Super Cinco | SD
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", (ONLINE) Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKVN8gR.png" group-title="SALVADOR", (DOUBTFUL) TVO | SD
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="SALVADOR", (ONLINE) WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANALES DEPORTES SD", (ONLINE) *** CANALES DEPORTES SD ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="Deportes", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="Deportes", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="Deportes", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES", (ONLINE) ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES", (ONLINE) AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES", (ONLINE) AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", (ONLINE) All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/realmadrid.jpg?" group-title="Without category", (ONLINE) REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="DEPORTES", (ONLINE) CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="Deportes", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="Without category", (ONLINE) REALMADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Without category", (ONLINE) REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) TDN SPORT
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL HD DEPORTE", (ONLINE) *** CANAL HD DEPORTE ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="Without category", (ONLINE) Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", (ONLINE) Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", (ONLINE) Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="PELICULAS", (ONLINE) *** PELICULAS ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sQ5MpXq.png" group-title="Información", (ONLINE) TecnotvOficial
+http://tecnotv.xyz/redes.avi
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información", (ONLINE) @Tecnotv
+http://tecnotv.xyz/redes.avi
+
+#EXTINF:-1 tvg-logo="https://imgur.com/QQwOrbU.png" group-title="Información", (ONLINE) NO Autorizado
+http://tecnotv.xyz/redes.avi
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="Without category", (DOUBTFUL) Guardianes de la Galaxia
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-logo="http://imgur.com/oIOuqTw.jpg" group-title="Drama", (DOUBTFUL) Sand Castle
+http://tecnotv.xyz/id=multi20/peliculas/sandcastle.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/tdEEvAu.jpg" group-title="Drama", (DOUBTFUL) Mientras el lobo no esta
+http://tecnotv.xyz/id=multi20/peliculas/mientrasellobonoesta.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/z1FVkD5.jpg" group-title="Comedia", (DOUBTFUL) Sandy Wexler
+http://tecnotv.xyz/id=multi20/peliculas/sandywexler.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/02wag0Q.jpg" group-title="Terror", (DOUBTFUL) Cementerio de mascotas
+http://tecnotv.xyz/id=multi20/peliculas/cementeriodemascotas.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/WOkBwjJ.jpg" group-title="Terror", (DOUBTFUL) El Muñeco diabólico
+http://tecnotv.xyz/id=multi20/peliculas/elmuñecodiabolico.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/91SXpSF.jpg" group-title="Terror", (DOUBTFUL) El Muñeco diabólico 2
+http://tecnotv.xyz/id=multi20/peliculas/elmuñecodiabolico2.php
+
+#EXTINF:-1 tvg-logo="http://imgur.com/Rfs6zdR.jpg" group-title="Terror", (DOUBTFUL) It
+http://tecnotv.xyz/id=multi20/peliculas/it.php
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) VENEZUELA:Promar TV
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ASESINO DE LA CATTETERA
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DANIEL EL TRAVIESO (CLASICA)
+http://bit.ly/DANIELELTRAVIESO_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL MAL ADENTRO(2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL SENHOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) HALLOWEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LA MARCA DE LA BESTIA
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MASCOTA HUMANA (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CASTILLO DE ARENA (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CEMENTERIO DE MASCOTAS (TERROR)
+http://bit.ly/MRAQCCEMEN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL NINHO DE LA PIJAMA A RAYAS
+https://goo.gl/hclbHa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA BELLA Y LA BESTIA (INFANTIL)
+http://bit.ly/MRAQCBELLA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) RETURN TO HORROR HIGH (TERROR)
+http://bit.ly/ReturntoHorrorHigh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA MORGUE
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) WONDER WOMAN
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) KONG LA ISLA CALAVERA
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LIFE VIDA INTELIGENTE (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) JEEPERS CREEPERS 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ATOMICA
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) GEO TORMENTA
+http://bit.ly/2zJqugm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LINEA MORTAL
+http://bit.ly/2x6sqhh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MARJORIE PRIME
+http://bit.ly/2xYu9cY
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) WHEELMAN
+http://bit.ly/2yzQ4qf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) PASSAGERS
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) JIG SAW 8
+http://bit.ly/2hpjtK0?RTNews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) THOR RAGNAROK
+http://bit.ly/2zOMTbe?RTNews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) 1922
+http://bit.ly/2gu7Wbz?RTNews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA TORRE OSCURA
+http://bit.ly/2hPm8Mv?RTNews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CARS 3
+https://ia801506.us.archive.org/21/items/pickidj74_gmail_Cars/cars.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CARS 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CARS
+http://ow.ly/FV8z30eTF4Z?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LOS POWER RANGERS
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) COMO CORTAR A TU PATAN
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA ERA DE HIELO 5
+http://ow.ly/An2A30f1uum?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA ERA DE HIELO 4
+http://ow.ly/FsWl30f01Bd?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA ERA DE HIELO 3
+http://ow.ly/ZQPM30f01u4?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA ERA DE HIELO 2
+http://ow.ly/iGm830f01eL?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA ERA DE HIELO 1
+http://ow.ly/i2Xo30f010l?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HUYE
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ASESINO DE LA CARRETERA (2007)
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ESTACION ZOMBIE (2016)
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MELANIE APOCALIPSIS ZOMBYE | Android-Latino
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) FRAGILES
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ZOMBIOLOGY
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA NOCHE DE BRUJA
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) BATMAN Y HARLEY QUEEN
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) VIRAL
+http://tecnotv.xyz/peliculas/viral
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TODOPODEROSO
+http://tecnotv.xyz/peliculas/todopoderoso
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MIVILLANO FAVORITO 3
+http://cecegeek@goo.gl/MLYHNw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) THE BIG SICK
+http://cecegeek@goo.gl/hR6Nxu
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) UN SACO DE CANICAS
+http://cecegeek@goo.gl/CFEVMB
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ALIEN COVENANT
+http://cecegeek@goo.gl/2P4LRV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HUYE GET OUT
+http://cecegeek@goo.gl/vTWRDV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA MOMIA
+http://cecegeek@goo.gl/5wTGRK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TODO TODO
+http://ow.ly/tlKB30eS9pK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) YO ANTES DE TI
+http://ow.ly/1Ud130eSgQq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) STRIPTEASE
+http://ow.ly/R9AG30eXNAI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DUMBO
+http://cecegeek@goo.gl/Aq4EDQ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) GEORGE DE LA SELVA
+http://cecegeek@goo.gl/GiHBk5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) TROLLS
+http://cecegeek@goo.gl/skmf64
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://cecegeek@goo.gl/QupTmL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) BAMBI 2
+http://cecegeek@goo.gl/hfgaAx
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) BAMBI
+http://cecegeek@goo.gl/6PpjEq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Diario De Una Pasion
+http://cecegeek@goo.gl/NmTmoq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ALTO IMPACTO
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ASESINO DE LA CATTETERA
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DANIEL EL TRAVIESO (CLASICA)
+http://bit.ly/DANIELELTRAVIESO_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL MAL ADENTRO(2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL SENHOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) FISTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) HALLOWEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ILUCIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LA MARCA DE LA BESTIA
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA MINA (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MASCOTA HUMANA (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CASTILLO DE ARENA (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CEMENTERIO DE MASCOTAS (TERROR)
+http://bit.ly/MRAQCCEMEN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL NINHO DE LA PIJAMA A RAYAS
+https://goo.gl/hclbHa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) JURASSIC WORLD
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA BELLA Y LA BESTIA (INFANTIL)
+http://bit.ly/MRAQCBELLA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) RETURN TO HORROR HIGH (TERROR)
+http://bit.ly/ReturntoHorrorHigh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SANDY WESLER(2017)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) UN DON EXCEPCIONAL(2017)
+http://bit.ly/2wZd4xc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL CAZADOR Y LA REINA DEL HIELO
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL CONTADOR
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=ALY0Zr3Vnfb%2Bmhfv6HmrLvSZDfDGoIJS13%2FmAlB04Tg%3D&docid=1aadd034ba0534117b1b10d1639cc5cee&rev=1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) EN EL CORAZON DEL MAR
+https://goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) HORAS CONTADAS
+https://goo.gl/SyvNCX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA CHICA DANESA
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) LA MALDICION EL INICIO DEL FIN
+https://goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MI ABUELO ES UN PELIGRO
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) MORGAN 2017
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=jB%2Fe9NhbBvIApvusiUW1dTsE0C1FJa4s85dUu7zpQdY%3D&docid=19139fa71f76c4627bc4a633d5f80bd46&rev=1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) OUIJA 2016
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=aExoVm%2Fa%2BUnbEO5sd1VU%2FK9TzsSGD1O%2BV3EG7JhuLfY%3D&docid=1f46c87d90a534a34a3c7bf6e78bc8f90&rev=1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SADAKO Y KAYAKO
+https://goo.gl/iU1U32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) SINIESTRO
+https://goo.gl/F5NCPj
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SPECTRAL(2016) HD
+https://600newlondonhighschoolorg-my.sharepoint.com/personal/john_0019_micro365_club/_layouts/15/download.aspx?guestaccesstoken=7khTHSrUQ%2FAfPeRpeRraHpmAnAfl640BcwJNvNSL5X0%3D&docid=1d4b71217dc8042b88d95bb1afccbe75f&rev=1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UN VUELO DE LOCURA
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) UNA PAREJA DISPAREJA
+https://mysmccd-my.sharepoint.com/personal/jonathanca2_my_smccd_edu/_layouts/15/download.aspx?guestaccesstoken=L1xcLeZaaC0RnNroupeOyrwLfKOcDoILl9pJ%2FnxSR%2FU%3D&docid=155d4e833091b46e2af22eec8652e629e&rev=1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) EL MATADOR
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
+
+#EXTINF:-1 tvg-logo="http://puu.sh/zxRsp/6886c451ac.jpg" group-title="Without category", (ONLINE) https://www.youtube.com/embed/SVWB8TKiFvc
+https://www.youtube.com/embed/SVWB8TKiFvc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Morgue 2016
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", (DOUBTFUL) Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Kong: La Isla Calavera (2017)
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Life: Vida Inteligente (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Ghost In The Shell (2017)
+https://archive.org/download/04052017AQCGH04052017298746/04052017AQCGH.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="CINE", (DOUBTFUL) Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", (DOUBTFUL) Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", (DOUBTFUL) Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", (DOUBTFUL) Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1 tvg-logo="http://septimopodcast.com/wp/wp-content/uploads/2017/03/gostorm-poster.jpg" group-title="CINE", (DOUBTFUL) Geo Tormenta
+http://bit.ly/2zJqugm
+
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", (DOUBTFUL) Linea Mortal
+http://bit.ly/2x6sqhh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Marjorie Prime
+http://bit.ly/2xYu9cY
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Wheelman
+http://bit.ly/2yzQ4qf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Passengers
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37278.jpg" group-title="CINE", (DOUBTFUL) Jig SAw 8
+http://bit.ly/2hpjtK0?RTNews
+
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", (DOUBTFUL) Thor Ragnarok
+http://bit.ly/2zOMTbe?RTNews
+
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", (DOUBTFUL) Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?RTNews
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="CINE", (DOUBTFUL) 1922
+http://bit.ly/2gu7Wbz?RTNews
+
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", (DOUBTFUL) La Torre Oscura
+http://bit.ly/2hPm8Mv?RTNews
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", (DOUBTFUL) Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) KONG LA ISLA CALAVERA
+https://ia801505.us.archive.org/21/items/KongLaIslaCalavera20017/KongLaIsla%20Calavera%2020017.mp4
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/be/42/0e/be420e3a9a8d9bce70121bdb791c908c.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Trolls
+https://goo.gl/sLrrij
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Guardianes de la Galaxia
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Cars 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Cars
+http://ow.ly/FV8z30eTF4Z?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Como cortar a tu patan
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Era De Hielo 5 : Choque De Mundos
+http://ow.ly/An2A30f1uum?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Era De Hielo 4 :La Formacion De Los Continentes
+http://ow.ly/FsWl30f01Bd?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Era De Hielo 3 :el origen de los dinosaurios
+http://ow.ly/ZQPM30f01u4?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Era De Hielo 2
+http://ow.ly/iGm830f01eL?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La Era De Hielo I
+http://ow.ly/i2Xo30f010l?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="https://images1.dallasobserver.com/imager/u/teaser/9877544/243877h1.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Marjorie Prime
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+
+#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300" group-title="PELICULAS NUEVAS", (DOUBTFUL) Huye
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 tvg-logo="http://www.cinencanto.com/pics/posters/hitcher.jpg" group-title="#TerrorEnTecnotv", (ONLINE) ASESINO DE LA CARRETERA (2007)
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/The_Mist_poster.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/6e/16/bd/6e16bdf485e513c81dd64525e0234ea0.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) ESTACION ZOMBIE (2016)
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+
+#EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://blog.cinevall.club/wp-content/uploads/cache/2017/09/la_casa/1637952427.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) La Casa BETA
+http://cinevall.com/videos/la_casa.m4v
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dFIVVARIrZjSm9PULiEIDTzQQmT.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) Los Guardianes de la Bahia
+http://bit.ly/2xHk92U
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", (DOUBTFUL) El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+
+#EXTINF:-1 tvg-logo="http://dw0qvtuyu4cw2.cloudfront.net//ima/0/0/1/6/4/164032.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) La Mujer Maravilla
+https://archive.org/download/Wonderwoman2017_201707/Wonderwoman%202017.MP4
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) Terromoto
+http://bit.ly/2hIBWAG
+
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", (DOUBTFUL) Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", (DOUBTFUL) Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", (DOUBTFUL) Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", (DOUBTFUL) Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", (DOUBTFUL) La Torre Oscura
+http://bit.ly/2hPm8Mv?RTNews
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", (DOUBTFUL) Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEd4r3UXcAA0Dbz.jpg" group-title="PELICULAS NUEVAS", (DOUBTFUL) Como cortar a tu patan
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+
+#EXTINF:-1 tvg-logo="https://movierob.files.wordpress.com/2017/04/get-out.jpg?w=203&h=300" group-title="PELICULAS NUEVAS", (DOUBTFUL) Huye
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/The_Mist_poster.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+
+#EXTINF:-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", (DOUBTFUL) El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+
+#EXTINF:-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO (1988)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg" group-title="#TerrorEnTecnotv", (DOUBTFUL) LA NOVIA DE CHUCKY (1998)
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-logo="http://blog.cinevall.club/wp-content/uploads/cache/2017/09/la_casa/1637952427.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) La Casa
+http://cinevall.com/videos/la_casa.m4v
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/baby_driver_poster.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) Baby El Aprendis del Crimen
+http://cinevall.com/videos/baby_driver.m4v
+
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="Estrenos HD Lat", (DOUBTFUL) El Ultimo Rey
+http://cinevall.com/videos/el_ultimo_rey.m4v
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_28070_79.jpg" group-title="Estrenos HD Lat", (DOUBTFUL) El Culto de Chuky
+http://cinevall.com/videos/culto_de_chucky.m4v
+
+#EXTINF:-1 tvg-logo="http://www.powerrangers.movie/images/posters/powerrangers_poster_international_3_600x925.jpg" group-title="Varias Lat", (DOUBTFUL) Los Power Rangers
+http://bit.ly/2gbHp2p
+
+#EXTINF:-1 tvg-logo="https://solarmoviefree.me/media/imagesv2/2017/07/snatched-2017.jpg" group-title="Varias Lat", (DOUBTFUL) Viaje Salvaje
+https://ia801508.us.archive.org/34/items/2132154654SRREGIO.NET/21321546548978456132.mkv
+
+#EXTINF:-1 tvg-logo="https://muviefunaticdotcom.files.wordpress.com/2017/06/girlstriposter.jpg" group-title="Varias Lat", (DOUBTFUL) Girls Trip
+http://cinevall.com/videos/girls_trip.m4v
+
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/la_autopsia_de_jane_doe_poster.jpg" group-title="Varias Lat", (DOUBTFUL) La Autopsia de Jane Doe
+http://cinevall.com/videos/la_autopsia_de_jane_doe.m4v
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KUzeQT.jpg" group-title="Varias Lat", (DOUBTFUL) Un Saco De Canicas
+http://ow.ly/v7hc30eVA0P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCHmkz8.jpg" group-title="Varias Lat", (DOUBTFUL) Huye
+http://ow.ly/3a9530eXgFk
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWM4YzZjOTEtZmU5ZS00ZTRkLWFiNjAtZTEwNzIzMDM5MjdmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX675_AL_.jpg" group-title="Varias Lat", (DOUBTFUL) The Big Sick
+https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2017/05/Alien-Covenant-3.jpg" group-title="Varias Lat", (DOUBTFUL) Alien Covenant
+http://ow.ly/SgXZ30eXN93
+
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/04/colossal-poster.jpg" group-title="Varias Lat", (DOUBTFUL) Colossal
+http://ow.ly/FXZ930eWtrs
+
+#EXTINF:-1 tvg-logo="http://www.xfdrmag.net/wp-content/uploads/2017/04/sandy-wexler-2.jpg" group-title="Varias Lat", (DOUBTFUL) Sandy Wexler
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SvIBOvW.jpg" group-title="Varias Lat", (DOUBTFUL) Mascota Humana
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w396/p6KICx848FEcsblVptyga3E7qO5.jpg" group-title="Varias Lat", (ONLINE) Un vuelo de locura
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://ru.tunes.zone/poster/180x270o/2007/323838-the-hitcher.jpg" group-title="Varias Lat", (ONLINE) Asesino de La Carretera
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vZdp7Y5MFgBvH3YYUoNvSRMlLSL.jpg" group-title="Varias Lat", (ONLINE) Hallowen
+http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vJjtHYHQe6I/TVsDNFvhzKI/AAAAAAAAAXg/SknModlwHnU/s1600/el-dia-del-apocalipsis.jpg" group-title="Varias Lat", (ONLINE) El dia del apocalipsis
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://images.cinemaki.com/m/240/3843.jpg" group-title="Varias Lat", (ONLINE) La Marca de la Bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="Varias Lat", (DOUBTFUL) Chucky el Muñeco Diabolico II
+http://bit.ly/MRAQCCHUK2
+
+#EXTINF:-1 tvg-logo="http://img.moviepostershop.com/return-to-horror-high-movie-poster-1987-1020210422.jpg" group-title="Varias Lat", (DOUBTFUL) Return to Horror High
+http://bit.ly/ReturntoHorrorHigh
